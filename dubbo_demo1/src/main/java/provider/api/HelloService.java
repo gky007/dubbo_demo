@@ -1,4 +1,4 @@
-package provider;
+package provider.api;
 
 /**
  * @author jamie
@@ -7,4 +7,5 @@ package provider;
  * @description
  */
 public interface HelloService {
+    String sayHello(String s);
 }
