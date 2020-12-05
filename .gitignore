@@ -1,0 +1,27 @@
+target/
+### STS ###
+.apt_generated
+.classpath
+.factorypath
+.project
+.settings
+.springBeans
+
+### IntelliJ IDEA ###
+.idea
+*.iws
+*.iml
+*.ipr
+output/*
+logs/*
+dubbo_demo1/src/test/
+dubbo_demo1/tomcat.8080/
+java_spi/src/main/resources/
+java_spi/src/test/
+java_spi/tomcat.8080/
+loadblance/src/main/resources/
+loadblance/src/test/
+/dubbo_demo1/target/
+/java_spi/target/
+/loadblance/target/
+/.idea/
